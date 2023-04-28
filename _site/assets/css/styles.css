@@ -36,13 +36,15 @@ footer h2{
 	letter-spacing: 0;
 	color: var(--primary);
 	border: none;
-	cursor: pointer;
+	cursor: help;
 }
 
 
 footer button{
+	position: fixed;
 	font-family: "FrGth-Cond";
 	font-size: 2vh;
+	right: 10vh;
 	background: none;
 	color: var(--primary);
 	border: none;
